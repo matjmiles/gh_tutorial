@@ -7,7 +7,7 @@
 
 1. Go to <a href="https://github.com" target="_blank">Github website (right click on this link to open in new window)</a> and click on "Pricing and signup"
 
-![github signup](images/gh1.png)
+![gh_tutorial](images/gh1.png)
 
 2. Enter your email address and click continue.
 
@@ -73,15 +73,29 @@
 
 ![github signup](images/gh18.png)
 
-18. One of the advantage so using GitHub is the ability to create branches of your project while you are making
- changes. Once you have reviewed your change you can commit those changes to the main branch. The main branch is created
-by default. Let's create a "dev" or development branch.
+18. One of the advantages of using GitHub is the ability to create branches or copies of your project while you are making
+ changes. By default a "<strong>main</strong>" branch is created when you add a GitHub repository. You can create additional branches 
+like a "<strong>dev</strong>" or development branch that is a duplicate of your "<strong>main</strong>" branch. 
+You then make changes to your "<strong>dev</strong>" branch. 
+Once you have reviewed and tested those changes you can <strong>commit</strong>
+those changes to the main branch. Let's now create a "<strong>dev</strong>" or development branch. Click on "New branch"
 
-![github signup](images/gh19.png)
+![gh_tutorial](images/gh19.png)
 
-19. Select the GitHub.com tab, select your repository, choose your location and click "Clone".
+19. Type "dev" for the name and select "Create branch".
 
 ![github signup](images/gh20.png)
+
+20. Type "dev" for the name and select "Create branch".
+
+![github signup](images/gh20.png)
+
+21. Click "Publish branch" so that the branch is created on the remote site. GitHub is using Git to create these branches 
+locally as well as running all of the other Git commands that GitHub Desktop is built upon. 
+
+![github signup](images/gh22.png)
+
+
 
 
 
