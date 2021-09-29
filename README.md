@@ -95,7 +95,7 @@ locally as well as running all of the other Git commands that GitHub Desktop is 
 
 ![github signup](images/gh22.png)
 
-22. Now lets edit or README.MD file by .
+22. Now lets edit or README.MD file by clicking on the "Repository" menu then "Show in Explorer".
 
 ![github signup](images/gh23.png)
 
