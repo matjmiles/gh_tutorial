@@ -1,10 +1,13 @@
-# github and github Desktop Tutorial
+# GitHub and GitHub Desktop Tutorial
 
-* <a href="#create-github">Create a github Account</a>
-* <a href="#create-github">Create a Repository</a>
-* <a href="#install-mysql">Install github Desktop</a>
+* <a href="#create-github-account">Create a GitHub Account</a>
+* <a href="#create-repository">Create a Repository</a>
+* <a href="#install-desktop">Install GitHub Desktop</a>
+* <a href="#create-dev-branch">Create A Development Branch</a>
+* <a href="#pull-request">Make a Change to the READEME.md file and Create a Pull Request</a>
 
 
+### <a id="user-content-create-github-account" class="anchor" aria-hidden="true" href="#create-github-account"></a>Create GitHub Account
 1. Go to <a href="https://github.com" target="_blank">Github website (right click on this link to open in new window)</a> and click on "Pricing and signup"
 
 ![gh_tutorial](images/gh1.png)
@@ -37,6 +40,8 @@
 
 ![github signup](images/gh9.png)
 
+### <a id="user-content-create-create-repository" class="anchor" aria-hidden="true" href="#create-create-repository"></a>Create Repository
+
 9. Click "Create repository".
 
 ![github signup](images/gh10.png)
@@ -46,6 +51,8 @@
 ![github signup](images/gh11.png)
 
 11. You should you now be able to see the README.md file.
+
+### <a id="user-content-install-desktop" class="anchor" aria-hidden="true" href="#install-desktop"></a>Install GitHub Desktop
 
 ![github signup](images/gh12.png)
 
@@ -68,6 +75,9 @@
 16. Select your repository you created in GitHub and click "Clone".
 
 ![github signup](images/gh17.png)
+
+### <a id="user-content-create-dev-branch" class="anchor" aria-hidden="true" href="#create-dev-branch"></a>Create dev Branch
+
 
 17. Select the GitHub.com tab, select your repository, choose your location and click "Clone".
 
@@ -95,6 +105,9 @@ locally as well as running all of the other Git commands that GitHub Desktop is 
 
 ![github signup](images/gh22.png)
 
+### <a id="user-content-pull-request" class="anchor" aria-hidden="true" href="#pull-request"></a>Create a Pull Request
+
+
 22. Now lets edit or README.MD file by clicking on the "Repository" menu then "Show in Explorer".
 
 ![github signup](images/gh23.png)
@@ -106,6 +119,8 @@ locally as well as running all of the other Git commands that GitHub Desktop is 
 24. Right click on the REAMDE.md file and select "Edit with Notepad++".
 
 ![github signup](images/gh26.png)
+
+* <a href="#pull-request">Make a Change to the READEME.md file and Create a Pull Request</a>
 
 25. The README.md file is in Markdown format. Markdown is a simplified html format that is the standard for README
 files on GitHub. 
@@ -155,7 +170,7 @@ track and manage changes made by multiple developers working on the same code re
 
 ![github signup](images/gh33.png)
 
-34. You can now see that the merge was successfully completed. If you want you can delete your dev branch. However if you
+34. You can now see that the merge was successfully completed. If you want you can delete your dev branch. However, if you
 are going to continue working on your project it's probably best to not delete the dev branch.
 
 ![github signup](images/gh34.png)
