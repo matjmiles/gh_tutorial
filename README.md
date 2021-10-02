@@ -10,78 +10,78 @@
 ### <a id="user-content-create-github-account" class="anchor" aria-hidden="true" href="#create-github-account"></a>Create GitHub Account
 1. Go to <a href="https://github.com" target="_blank">Github website (right click on this link to open in new window)</a> and click on "Pricing and signup"
 
-![gh_tutorial](images/gh1.png)
+![go to gibhub](images/gh1.png)
 
 2. Enter your email address and click continue.
 
-![github signup](images/gh2.png)
+![add_email](images/gh2.png)
 
 3. Create a password and click continue.
 
-![github signup](images/gh3.png)
+![create_password](images/gh3.png)
 
 4. Solve the puzzle to continue.
 
-![github signup](images/gh4.png)
+![solve_puzzle](images/gh4.png)
 
 5. Click "Create account".
 
-![github signup](images/gh5.png)
+![create_account](images/gh5.png)
 
 6. Click "Just me" and "Student" then click "Continue".
 
-![github signup](images/gh6.png)
+![kust_me](images/gh6.png)
 
 7. Click the checkboxes for "Collaborative coding" and "Automation and CI/CD" and continue.
 
-![github signup](images/gh8.png)
+![click_checkboxes](images/gh8.png)
 
 8. Click "Continue for free".
 
-![github signup](images/gh9.png)
+![continue_for_free](images/gh9.png)
 
 ### <a id="user-content-create-create-repository" class="anchor" aria-hidden="true" href="#create-create-repository"></a>Create Repository
 
 9. Click "Create repository".
 
-![github signup](images/gh10.png)
+![create_repository](images/gh10.png)
 
 10. Select "Public" or "Private" ad a README file and if you want select a license and click "Create repository".
 
-![github signup](images/gh11.png)
+![public_or_private](images/gh11.png)
 
 11. You should you now be able to see the README.md file.
 
 ### <a id="user-content-install-desktop" class="anchor" aria-hidden="true" href="#install-desktop"></a>Install GitHub Desktop
 
-![github signup](images/gh12.png)
+![install_desktop](images/gh12.png)
 
 12. Go to <a href="https://desktop.github.com" target="_blank">GitHub desktop (right click on this link to open in new window)</a> and click on "Download for Windows (64bit)"
 
-![github signup](images/gh13.png)
+![download_software](images/gh13.png)
 
 13. Click the download button for the computer platform you are installing on.
 
-![github signup](images/gh14.png)
+![download_correct_platform](images/gh14.png)
 
 14. Click the GitHubDesktop install executable.
 
-![github signup](images/gh15.png)
+![install_exe](images/gh15.png)
 
 15. The software installation begins and will launch once completed.
 
-![github signup](images/gh16.png)
+![launch_install](images/gh16.png)
 
 16. Select your repository you created in GitHub and click "Clone".
 
-![github signup](images/gh17.png)
+![clone](images/gh17.png)
 
 ### <a id="user-content-create-dev-branch" class="anchor" aria-hidden="true" href="#create-dev-branch"></a>Create dev Branch
 
 
 17. Select the GitHub.com tab, select your repository, choose your location and click "Clone".
 
-![github signup](images/gh18.png)
+![clone_repository](images/gh18.png)
 
 18. One of the advantages of using GitHub is the ability to create branches or copies of your project while you are making
  changes. By default a "<strong>main</strong>" branch is created when you add a GitHub repository. You can create additional branches 
@@ -90,54 +90,52 @@ You then make changes to your "<strong>dev</strong>" branch.
 Once you have reviewed and tested those changes you can <strong>commit</strong>
 those changes to the main branch. Let's now create a "<strong>dev</strong>" or development branch. Click on "New branch"
 
-![gh_tutorial](images/gh19.png)
+![create_dev_branch](images/gh19.png)
 
 19. Type "dev" for the name and select "Create branch".
 
-![github signup](images/gh20.png)
+![create_branch](images/gh20.png)
 
 20. Type "dev" for the name and select "Create branch".
 
-![github signup](images/gh20.png)
+![dev](images/gh20.png)
 
 21. Click "Publish branch" so that the branch is created on the remote site. GitHub is using Git to create these branches 
 locally as well as running all of the other Git commands that GitHub Desktop is built upon. 
 
-![github signup](images/gh22.png)
-
-### <a id="user-content-pull-request" class="anchor" aria-hidden="true" href="#pull-request"></a>Create a Pull Request
-
+![publish_branch](images/gh22.png)
 
 22. Now lets edit or README.MD file by clicking on the "Repository" menu then "Show in Explorer".
 
-![github signup](images/gh23.png)
+![edit_readme](images/gh23.png)
 
 23. The directory where our source files are located is opened.
 
-![github signup](images/gh25.png)
+![open_directory](images/gh25.png)
 
 24. Right click on the REAMDE.md file and select "Edit with Notepad++".
 
-![github signup](images/gh26.png)
+![edit_readme](images/gh26.png)
 
-* <a href="#pull-request">Make a Change to the READEME.md file and Create a Pull Request</a>
+### <a id="user-content-pull-request" class="anchor" aria-hidden="true" href="#pull-request"></a>Create a Pull Request
+
 
 25. The README.md file is in Markdown format. Markdown is a simplified html format that is the standard for README
 files on GitHub. 
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Here is a link to the basic syntax for Markdown (right click on this link to open in new window)</a>
 Make a few changes and click "save".
 
-![github signup](images/gh27.png)
+![markdown](images/gh27.png)
 
 26. In GitHub Desktop you can see the the file has changed. Yuu can also see the text that was changed and how it was
 changed. You can then add a description of your changes. Now click "Commit to dev".
 
-![github signup](images/gh28.png)
+![commit_dev](images/gh28.png)
 
 27. Notice that your current branch is the dev branch you created. By clicking "Push origin" the changes you made to your 
 local file will get pushed to GitHub in the cloud.
 
-![github signup](images/gh29.png)
+![push_origin](images/gh29.png)
 
 28. Notice that your current branch is the dev branch you created. By clicking "Push origin" the changes you made to your
     local file will get pushed to GitHub in the cloud.
