@@ -117,7 +117,7 @@ locally as well as running all of the other Git commands that GitHub Desktop is 
 
 ![edit_readme](images/gh26.png)
 
-### <a id="user-content-pull-request" class="anchor" aria-hidden="true" href="#pull-request"></a>Create a Pull Request
+### <a id="user-content-pull-request" class="anchor" aria-hidden="true" href="#pull-request"></a>Make a Change to the READEME.md file and Create a Pull Request
 
 
 25. The README.md file is in Markdown format. Markdown is a simplified html format that is the standard for README
