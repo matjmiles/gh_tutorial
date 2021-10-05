@@ -76,7 +76,7 @@
 
 ![clone](images/gh17.png)
 
-### <a id="user-content-create-dev-branch" class="anchor" aria-hidden="true" href="#create-dev-branch"></a>Create dev Branch
+### <a id="user-content-create-dev-branch" class="anchor" aria-hidden="true" href="#create-dev-branch"></a>Create development Branch
 
 
 17. Select the GitHub.com tab, select your repository, choose your location and click "Clone".
@@ -146,13 +146,13 @@ local file will get pushed to GitHub in the cloud.
 you are submitting a request to have your code reviewed and if approved, your changes will be merged from the dev branch
 into the main branch.
 
-![github signup](images/gh30.png)
+![pull_request](images/gh30.png)
 
 30. Your GitHub repository is then launched in a web browser. GitHub analyzes your code to see if there are any conflicts
 with other pull requests which may have been made by other developers. That is one of the advantages of GitHub. It will
 track and manage changes made by multiple developers working on the same code repository. 
 
-![github signup](images/gh31.png)
+![track_changes](images/gh31.png)
 
 31. Your GitHub repository is then launched in a web browser. GitHub analyzes your code to see if there are any conflicts
     with other pull requests which may have been made by other developers. That is one of the advantages of GitHub. It will
