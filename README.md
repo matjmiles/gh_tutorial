@@ -1,5 +1,7 @@
 # GitHub and GitHub Desktop Tutorial
 
+### <a href="https://youtu.be/dWWZtKjGTgU" target="_blank">Video Tutorial</a>
+
 * <a href="#create-github-account">Create a GitHub Account</a>
 * <a href="#create-repository">Create a Repository</a>
 * <a href="#install-desktop">Install GitHub Desktop</a>
