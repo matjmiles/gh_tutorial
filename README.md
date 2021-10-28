@@ -14,7 +14,7 @@
 
 ![go to gibhub](images/gh1.png)
 
-2. Enter your email address and click continue.
+2. Enter your email address and click continue
 
 ![add_email](images/gh2.png)
 
