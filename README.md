@@ -18,7 +18,7 @@
 
 ![add_email](images/gh2.png)
 
-3. Create a password and click continue.
+3. Create a password and click continue
 
 ![create_password](images/gh3.png)
 
